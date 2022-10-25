@@ -9,7 +9,7 @@
 🌱 I’m currently learning:
 
   - Containerisation using Docker and Kubernetes.
-  - How to improve accessibility for front-end applications.
+  - Improving accessibility for web applications.
 
 My current tech:
 
