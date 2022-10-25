@@ -6,6 +6,11 @@
 
 ---
 
+🌱 I’m currently learning:
+
+  - Containerisation using Docker and Kubernetes.
+  - How to improve accessibility for front-end applications.
+
 My current tech:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
