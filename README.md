@@ -1,8 +1,8 @@
 # About Me 
 
 - 😊 Hi, I’m Phoebe
-- ✨ I'm a full-stack web developer
-- 🎓 I’m currently part of School of Code UK!
+- ✨ Software Engineer for Niaxo 
+- 🎓 School of Code Graduate
 
 ---
 
